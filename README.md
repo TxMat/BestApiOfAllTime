@@ -1,4 +1,4 @@
-# BestApiOfAllTimeXD
+# BestApiOfAllTime
 
 Bonne correction
 
